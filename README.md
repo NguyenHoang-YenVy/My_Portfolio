@@ -67,14 +67,18 @@ This portfolio showcases my academic projects that demonstrate my ability to ide
 **Description:** 
 - Analyzed customer browsing behavior to identify the key factors influencing online purchase decisions using the Online Shoppers Intention dataset from Kaggle.
 
+**Project Deliverables**
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Feature Selection
+- Predictive Model (Gradient Boosting Classifier)
+- Model Evaluation
 
 
----
+**Key Skills:** Data Analysis, Business Analytics, Machine Learning, Python, Data Preprocessing, Feature Engineering, Predictive Analytics  
 
-**Key Skills:** Business Analytics, Machine Learning, Python, Data Preprocessing, Feature Engineering, Predictive Analytics  
-
-**📁 Folder:**
-
+**📁 Folder:** Customers_Online_Purchase_Decisions
 
 ---
 
