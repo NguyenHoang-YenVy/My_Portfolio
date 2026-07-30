@@ -1,7 +1,7 @@
 # Business Requirements
 
 ## Overview
-This project analyzes and designs a Management Information System for **Co MayCa**, a fashion retail store. The system supports business operations across Sales, Warehouse, Delivery, Customer and Promotion.
+This documents defines the business requirements for the Management Information System of **Co MayCa**, a fashion retail store. The system is designed to support and integrate key business processes across Sales, Inventory, Delivery, Customer Service and Store Management.
 
 ---
 
