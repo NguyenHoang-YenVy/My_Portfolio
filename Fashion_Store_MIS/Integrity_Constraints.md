@@ -12,12 +12,6 @@
 
 - Data values must satisfy predefined rules, such as valid email formats, non-negative salaries, supported payment methods, and valid payment statuses.
 
-## Business Rules
-
-- An invoice can only be generated from a valid sales order.
-- Stock must be available before issuing products.
-- Returns are accepted only for paid orders within the allowed return period.
-- Inventory quantities must remain above the minimum stock threshold.
 
 ## Uniqueness Constraints
 
