@@ -1,7 +1,7 @@
 # Business Requirements
 
 ## Overview
-This documents defines the business requirements for the Management Information System of **Co MayCa**, a fashion retail store. The system is designed to support and integrate key business processes across Sales, Inventory, Delivery, Customer Service and Store Management.
+This document defines the business requirements for the Management Information System of **Co MayCa**, a fashion retail store. The system is designed to support and integrate key business processes across Sales, Inventory, Delivery, Customer Service and Store Management.
 
 ---
 
