@@ -58,23 +58,23 @@ This portfolio showcases my academic projects that demonstrate my ability to ide
 
 **Key Skills:** Business Analysis, System Analysis & Design, Database Design, Figma, Business Rules
 
-**📁 Folder:**
+**📁 Folder:** Fashion_Store_MIS 
 
 ---
 
-## 🛒 Online Shopper Purchase Behavior Analysis
+## 🛒 Data Analysis of Factors Affecting Customers Online Purchase Decisions
 
-Conducted exploratory data analysis and developed predictive models to identify the factors influencing customers' online purchasing decisions. Delivered actionable insights to improve marketing strategies and customer conversion.
+**Description:** 
+- Analyzed customer browsing behavior to identify the key factors influencing online purchase decisions using the Online Shoppers Intention dataset from Kaggle.
 
-Key Skills: Business Analytics, Machine Learning, Python, Data Preprocessing, Feature Engineering, Predictive Analytics  
+
+
+---
+
+**Key Skills:** Business Analytics, Machine Learning, Python, Data Preprocessing, Feature Engineering, Predictive Analytics  
 
 **📁 Folder:**
 
 
 ---
 
-## 📈 Sales Performance & Customer Analytics
-
-Analyzed customer purchasing patterns, sales trends, and business performance using SQL and Business Intelligence techniques. Developed dashboards and reports that enabled stakeholders to monitor KPIs and identify business opportunities.
-
-Key Skills: SQL, Power BI, Business Analytics, Dashboard Development, Data Visualization
