@@ -1,21 +1,23 @@
-**📊 WELCOME TO MY PORTFOLIO - VY NGUYEN HOANG YEN** 
+**WELCOME TO MY PORTFOLIO - VY NGUYEN HOANG YEN** 
 
-## 
+---
+
 # 👤 About Me
-
+I'm a third-year Management Information Systems (MIS) student with an interest in Business Analysis.  
 I enjoy understanding business problems, analyzing requirements, and using data to support better business decisions.
 
-Through hands-on academic projects, I have developed practical experience in Business Analysis and Business Intelligence, including requirement analysis, business process modeling, SQL analytics, Power BI dashboard development, KPI reporting, and data visualization.
+Through hands-on academic projects, I have developed practical experience in Business Analysis, including requirement analysis, business process modeling, SQL analytics.
 
-This portfolio showcases academic projects that demonstrate my ability to identify business needs, analyze processes, interpret data, and deliver insights that support informed business decisions.
+This portfolio showcases my academic projects that demonstrate my ability to identify business needs, analyze processes, interpret data and support data-driven decision-making through business analysis practices.
 
-##
+
+---
+
 # 🧠 Core Skills & Tools
 
 **Business Analysis**
-
 - Business Requirements Documents (BRD)  
-- Functional & Non-Functional Requirements (FRD / NFR) 
+- Functional & Non-Functional Requirements (FRD/NFR)
 - BPMN Process Modeling (As-Is / To-Be) 
 - Use Case Analysis
 - User Stories & Acceptance Criteria
@@ -24,48 +26,39 @@ This portfolio showcases academic projects that demonstrate my ability to identi
 **Business Intelligence & Data Analytics**
 - SQL (Data Querying & Analysis)
 - Data Cleaning & Transformation
-- KPI Definition & Performance Analysis
-- Dashboard Development
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-- Business Reporting    
+- Exploratory Data Analysis (EDA)  
 
 **Tools & Technologies**
-- Power BI
 - SQL Server 
 - Figma (UI Prototype)
 - Python (Pandas, NumPy)
 - Draw.io 
 - Git & GitHub
 
-**Methodologies**  
-- SDLC  
+---
 
-##
 # 📂 Featured Projects
 
 ## 👗 Fashion Store Management Information System Analysis & Design
 
-**Role:** Team Member (Business Analysis & Database Design) 
+**Description:** 
+- Analyzed and designed a management information system for a fashion retail store to support core business operations, including sales, inventory management, customer management, order processing, delivery, promotions and Store Management.
 
-- Designed and analyzed a management information system for a fashion retail store to support core business operations, including sales, inventory management, customer management, order processing, delivery, promotions, and returns.
-
-- As part of this academic group project, the team analyzed business requirements, modeled system processes, designed the database structure, and developed interface prototypes to visualize the proposed solution.
 
 **Project Deliverables**  
 - Business Requirements Analysis
 - Entity–Function Matrix
 - Data Flow Diagrams (Context Diagram, Level 0–2)
 - Entity Relationship Diagram (ERD)
-- Relational Database Design
+- Relational Database Model
 - Business Rules & Data Integrity Constraints
 - User Interface Prototype (Figma)
 
-**Key Skills:** Business Analysis, System Analysis & Design, DFD, ERD, Database Design, Figma, Business Rules
+**Key Skills:** Business Analysis, System Analysis & Design, Database Design, Figma, Business Rules
 
 **📁 Folder:**
 
-#
+---
 
 ## 🛒 Online Shopper Purchase Behavior Analysis
 
@@ -76,7 +69,7 @@ Key Skills: Business Analytics, Machine Learning, Python, Data Preprocessing, Fe
 **📁 Folder:**
 
 
-#
+---
 
 ## 📈 Sales Performance & Customer Analytics
 
