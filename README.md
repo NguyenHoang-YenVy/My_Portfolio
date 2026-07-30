@@ -42,13 +42,12 @@ This portfolio showcases my academic projects that demonstrate my ability to ide
 ## 👗 Fashion Store Management Information System Analysis & Design
 
 **Description:** 
-- Analyzed and designed a Management Information System for a fashion retail store to support core business operations, including sales, inventory management, customer management, order processing, delivery,promotion management and store management. 
+- Analyzed and designed a Management Information System for a fashion retail store to support core business operations, including sales, inventory management, customer management, order processing, delivery, promotion management and store management. 
 
 
 **Project Deliverables**  
 - Business Requirements Analysis
 - Entity–Function Matrix
-- Data Flow Diagram (DFD)
 - Function Decomposition Diagram (FDD/BPC)
 - Data Flow Diagrams (Context Diagram, Level 0–2)
 - Entity Relationship Diagram (ERD)
