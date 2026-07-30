@@ -23,7 +23,7 @@ This portfolio showcases my academic projects that demonstrate my ability to ide
 - User Stories & Acceptance Criteria
 - UML Diagrams (Use Case, Activity, Class)  
 
-**Business Intelligence & Data Analytics**
+**Data Analytics**
 - SQL (Data Querying & Analysis)
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)  
@@ -48,6 +48,8 @@ This portfolio showcases my academic projects that demonstrate my ability to ide
 **Project Deliverables**  
 - Business Requirements Analysis
 - Entity–Function Matrix
+- Data Flow Diagram (DFD)
+- Function Decomposition Diagram (FDD/BPC)
 - Data Flow Diagrams (Context Diagram, Level 0–2)
 - Entity Relationship Diagram (ERD)
 - Relational Database Model
