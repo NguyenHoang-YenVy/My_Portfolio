@@ -14,7 +14,7 @@ The Fashion Store Management System was designed to support the daily operations
 | Sales Staff | Create orders, process payments, generate invoices |
 | Warehouse Staff | Manage inventory, goods receipt, stock issuance |
 | Delivery Staff | Create delivery orders and monitor shipment status |
-| Customer Service Staff | Handle customer inquiries, complaints, and returns |
+| Customer Service Staff | Handle customer inquiries, complaints |
 | Customers | Purchase products and receive after-sales services |
 
 ---
