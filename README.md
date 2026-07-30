@@ -4,7 +4,7 @@
 
 # 👤 About Me
 I'm a third-year Management Information Systems (MIS) student with an interest in Business Analysis.  
-I enjoy understanding business problems, analyzing requirements, and using data to support better business decisions.
+I enjoy understanding business problems, analyzing requirements and using data to support business decisions.
 
 Through hands-on academic projects, I have developed practical experience in Business Analysis, including requirement analysis, business process modeling, SQL analytics.
 
@@ -42,7 +42,7 @@ This portfolio showcases my academic projects that demonstrate my ability to ide
 ## 👗 Fashion Store Management Information System Analysis & Design
 
 **Description:** 
-- Analyzed and designed a management information system for a fashion retail store to support core business operations, including sales, inventory management, customer management, order processing, delivery, promotions and Store Management.
+- Analyzed and designed a Management Information System for a fashion retail store to support core business operations, including sales, inventory management, customer management, order processing, delivery, promotions and store Management.
 
 
 **Project Deliverables**  
