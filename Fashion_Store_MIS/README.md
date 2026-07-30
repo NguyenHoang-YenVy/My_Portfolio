@@ -2,15 +2,14 @@
 
 ## Project Overview
 
-This academic group project focuses on analyzing and designing a Management Information System for a fashion retail store. The system aims to streamline business operations across multiple departments, including Sales, Warehouse, Delivery, Customer Service, and Store Management.
+This academic group project focuses on analyzing and designing a Management Information System for a fashion retail store. The system aims to streamline business operations across multiple departments, including Sales, Inventory, Delivery, Customer Service and Store Management.
 
 The project covers business requirement analysis, system analysis, database design, and user interface prototyping to support efficient retail operations and improve business decision-making.
 
 ---
 
 ## Business Problem
-
-The fashion store relied on manual and disconnected processes to manage products, customer orders, inventory, deliveries, promotions, and customer services. These challenges led to data inconsistencies, delayed operations, and difficulties in monitoring overall business performance.
+The fashion retail store relied on manual and disconnected processes to manage sales, inventory, customer information, deliveries, and promotional activities. This resulted in data inconsistencies, inefficient coordination between departments, and limited visibility into business operations, making it difficult to support timely and informed decision-making.
 
 ---
 
