@@ -1,4 +1,4 @@
-**WELCOME TO MY PORTFOLIO - VY NGUYEN HOANG YEN** 
+# Welcome to My Portfolio - Vy Nguyen Hoang Yen
 
 ---
 
@@ -8,20 +8,20 @@ I enjoy understanding business problems, analyzing requirements and using data t
 
 Through hands-on academic projects, I have developed practical experience in Business Analysis, including requirement analysis, business process modeling, SQL analytics.
 
-This portfolio showcases my academic projects that demonstrate my ability to identify business needs, analyze processes, interpret data and support data-driven decision-making through business analysis practices.
-
+This portfolio showcases my academic projects in Business Analysis and Data Analytics. 
+The projects reflect my experience in understanding business needs, analyzing processes, working with data, and supporting business decisions.
 
 ---
 
 # 🧠 Core Skills & Tools
 
 **Business Analysis**
-- Business Requirements Documents (BRD)  
-- Functional & Non-Functional Requirements (FRD/NFR)
-- BPMN Process Modeling (As-Is / To-Be) 
+- Business Requirements Analysis 
+- Stakeholder Analysis 
+- Business Rules
+- Business Process Modeling
 - Use Case Analysis
-- User Stories & Acceptance Criteria
-- UML Diagrams (Use Case, Activity, Class)  
+- User Stories & Acceptance Criteria 
 
 **Data Analytics**
 - SQL (Data Querying & Analysis)
@@ -57,7 +57,7 @@ This portfolio showcases my academic projects that demonstrate my ability to ide
 
 **Key Skills:** Business Analysis, System Analysis & Design, Database Design, Figma, Business Rules
 
-**📁 Folder:** Fashion_Store_MIS 
+**📁 Folder:** `Fashion_Store_MIS`
 
 ---
 
@@ -73,11 +73,12 @@ This portfolio showcases my academic projects that demonstrate my ability to ide
 - Feature Selection
 - Predictive Model (Gradient Boosting Classifier)
 - Model Evaluation
+- Business Insights
 
 
 **Key Skills:** Data Analysis, Business Analytics, Machine Learning, Python, Data Preprocessing, Feature Engineering, Predictive Analytics  
 
-**📁 Folder:** Customers_Online_Purchase_Decisions
+**📁 Folder:** `Customers_Online_Purchase_Decision`
 
 ---
 
