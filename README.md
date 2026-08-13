@@ -61,7 +61,7 @@ This portfolio showcases my academic projects that demonstrate my ability to ide
 
 ---
 
-## 🛒 Data Analysis of Factors Affecting Customers Online Purchase Decisions
+## 🛒 Data Analysis of Factors Influencing Customers' Online Purchasing Decisions
 
 **Description:** 
 - Analyzed customer browsing behavior to identify the key factors influencing online purchase decisions using the Online Shoppers Intention dataset from Kaggle.
