@@ -1,4 +1,4 @@
-# Welcome to My Portfolio - Nguyen Hoang Yen Vy
+# Welcome to my portfolio - Nguyen Hoang Yen Vy
 
 ---
 
