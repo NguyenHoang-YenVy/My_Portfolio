@@ -1,15 +1,16 @@
-# Welcome to My Portfolio - Vy Nguyen Hoang Yen
+# Welcome to My Portfolio - Nguyen Hoang Yen Vy
 
 ---
 
 # 👤 About Me
-I'm a third-year Management Information Systems (MIS) student with an interest in Business Analysis.  
-I enjoy understanding business problems, analyzing requirements and using data to support business decisions.
 
-Through hands-on academic projects, I have developed practical experience in Business Analysis, including requirement analysis, business process modeling, SQL analytics.
+I'm a third-year Management Information Systems (MIS) student interested in Business Analysis and Data Analytics.
 
-This portfolio showcases my academic projects in Business Analysis and Data Analytics. 
-The projects reflect my experience in understanding business needs, analyzing processes, working with data, and supporting business decisions.
+I like understanding business problems, figuring out what users need and exploring how technology can be used to solve them.
+
+Through my academic projects, I've had the chance to work with requirements, business processes, databases and data analysis. These projects have helped me build a better understanding of how business needs are translated into system solutions.
+
+This portfolio is a collection of some of the projects I've worked on and the skills I've developed along the way.
 
 ---
 
@@ -19,14 +20,16 @@ The projects reflect my experience in understanding business needs, analyzing pr
 - Business Requirements Analysis 
 - Stakeholder Analysis 
 - Business Rules
-- Business Process Modeling
+- Business Process Modeling (DFD, ERD)
 - Use Case Analysis
 - User Stories & Acceptance Criteria 
+- Functional & Non-functional Requirements
 
 **Data Analytics**
 - SQL (Data Querying & Analysis)
 - Data Cleaning & Transformation
-- Exploratory Data Analysis (EDA)  
+- Exploratory Data Analysis (EDA)
+- Predictive Modeling (Machine Learning)  
 
 **Tools & Technologies**
 - SQL Server 
@@ -69,9 +72,8 @@ The projects reflect my experience in understanding business needs, analyzing pr
 **Project Deliverables**
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Preprocessing
-- Feature Engineering
-- Feature Selection
-- Predictive Model (Gradient Boosting Classifier)
+- Feature Selection: SelectKBest 
+- Predictive Model: Gradient Boosting Classifier (88.3% accuracy)
 - Model Evaluation
 - Business Insights
 
