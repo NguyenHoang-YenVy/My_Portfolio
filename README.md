@@ -4,11 +4,11 @@
 
 # About Me
 
-I'm a third-year Management Information Systems (MIS) student interested in Business Analysis and Data Analytics.
+I'm a final-year Management Information Systems (MIS) student interested in Business Analysis and Data Analytics.
 
-I like understanding business problems, figuring out what users need and exploring how technology can be used to solve them.
+I like understanding business problems, figuring out what users need and exploring how technology can be used to solve them to support business operations and decision-making.
 
-Through my academic projects, I've had the chance to work with requirements, business processes, databases and data analysis. These projects have helped me build a better understanding of how business needs are translated into system solutions.
+Through my academic projects, I've  worked with requirements, business processes, databases and data analysis. These projects have helped me build a better understanding of how business needs are translated into system solutions.
 
 This portfolio is a collection of some of the projects I've worked on and the skills I've developed along the way.
 
@@ -20,27 +20,50 @@ This portfolio is a collection of some of the projects I've worked on and the sk
 - Business Requirements Analysis 
 - Stakeholder Analysis 
 - Business Rules
-- Business Process Modeling (DFD, ERD)
+- Business Process Modeling (BPC,DFD)
+- Database & Data Warehouse Modeling (ERD, Star Schema)
 - Use Case Analysis
 - User Stories & Acceptance Criteria 
 - Functional & Non-functional Requirements
 
 **Data Analytics**
-- SQL (Data Querying & Analysis)
-- Data Cleaning & Transformation
+- SQL (Querying, Data Warehouse Modeling)
+- ETL Pipeline Development (Data Cleaning & Transformation)
 - Exploratory Data Analysis (EDA)
 - Predictive Modeling (Machine Learning)  
 
+
 **Tools & Technologies**
-- SQL Server 
-- Figma (UI Prototype)
-- Python (Pandas, NumPy)
-- Draw.io 
-- Git & GitHub
+- **Databases & Data Warehouse:** Microsoft SQL Server, Star Schema Data Modeling
+- **Web & Backend:** Flask, REST API, Jinja2, HTML5/CSS3, Tailwind CSS, Chart.js
+- **Design & Version Control:** Figma, Draw.io, Git, GitHub
+- **Analytics**: Python (Pandas, NumPy), PyODBC, Jupyter Notebook
+
+
 
 ---
 
 # Featured Projects
+
+## E-commerce Business Intelligence System
+
+**Description:** 
+- Built an end-to-end Business Intelligence system using the **Brazilian E-Commerce Public Dataset by Olist** from **[Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)** to analyze e-commerce business performance, centralize data into a Data Warehouse, and deliver machine learning-based revenue forecasting through an interactive Web BI application with Role-Based Access Control (RBAC).
+
+**Project Deliverables:** 
+- Business Requirements Analysis
+- Python-based ETL Pipeline (Extract, Clean, Transform, Load)
+- SQL Server Data Warehouse (Star Schema Architecture)
+- Machine Learning Revenue Forecasting Model (XGBoost)
+- Web BI Application Backend & REST APIs (Flask, Jinja2, Tailwind CSS, Chart.js)
+- User Authentication & Role-Based Access Control System (RBAC for CEO, Sales Manager, CMO, Data Analyst, Admin)
+
+
+**Key Skills**: Business Analysis, Business Intelligence, ETL, Data Warehouse, SQL Server, Python, Data Analysis, Machine Learning, Flask, REST API
+
+**Folder:** `E-commerce_Business_Intelligence_System`
+
+---
 
 ## Fashion Store Management Information System Analysis & Design
 
